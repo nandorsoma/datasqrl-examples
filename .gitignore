@@ -1,2 +1,5 @@
 .idea
 */build
+h2.db.mv.db
+cache
+.DS_Store
